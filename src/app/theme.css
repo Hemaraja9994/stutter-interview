@@ -1,0 +1,38 @@
+.theme-src{}
+/* ===== stutter-interview theme ===== */
+:root{
+  --color-paper: #F4F6F6;
+  --color-surface: #FFFFFF;
+  --color-ink: #1E2A2E;
+  --color-muted: #4C5A5E;
+  --color-line: #D2DBDB;
+  --color-track: #E4EAEA;
+  --color-accent: #0F7A6E;
+  --color-grid: #E4EAEA;
+  --font-sans: "Inter","Atkinson Hyperlegible",system-ui,sans-serif;
+  --font-display: "Figtree","Atkinson Hyperlegible",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+  --color-paper: #0A1416;
+  --color-surface: #122122;
+  --color-ink: #E4EEEE;
+  --color-accent: #44BFAE;
+  --color-grid: #162626;
+  --color-muted: #A3B1C2;
+  --color-line: #2B3A4B;
+  --color-track: #22303F;
+  }
+}
+body{
+  background-image:
+    linear-gradient(var(--color-grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--color-grid) 1px, transparent 1px);
+  background-size: 26px 26px;
+}
+h1,h2,h3,h4{ font-family: var(--font-display); }
+header.bg-ink{
+  background-image: repeating-linear-gradient(90deg, rgba(255,255,255,.055) 0 2px, transparent 2px 13px);
+  background-size: auto;
+}
+
