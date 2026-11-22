@@ -1,0 +1,17 @@
+[
+  { "id": "disclosure", "title": "Self-disclosure of stuttering", "tags": ["disclosure", "self-disclosure", "interview", "openness", "listener", "advertising"],
+    "text": "Telling a listener early that you stutter (self-disclosure) tends to reduce the speaker's anxiety and leaves listeners with a more favourable, relaxed impression. In interviews it sets expectations, so a moment on a word is understood rather than misread.",
+    "source": "Byrd CT, et al. The effect of self-disclosure on male and female perceptions of individuals who stutter. Am J Speech Lang Pathol 26(1):69–80", "year": 2017, "url": "https://pubmed.ncbi.nlm.nih.gov/28056135/", "checked": "Nov 2026" },
+  { "id": "avoidance", "title": "Avoidance keeps stuttering going", "tags": ["avoidance", "word switching", "fear", "approach", "avoidance reduction", "freedom"],
+    "text": "Switching words, dodging sounds or skipping situations lowers anxiety for a moment but strengthens fear over time. Avoidance-reduction work — saying the word you meant, entering feared situations — builds lasting communication freedom. Tracking avoidance makes it visible.",
+    "source": "Sheehan JG. Stuttering: the search for a cause and cure / avoidance-reduction therapy", "year": 1970, "checked": "Nov 2026" },
+  { "id": "techniques", "title": "Speech-management techniques", "tags": ["easy onset", "light contact", "pausing", "phrasing", "fluency shaping", "pull-out", "cancellation"],
+    "text": "Easy onset (starting voice gently), light articulatory contact, and pausing with phrasing make speech easier to produce. Pull-outs and cancellations are ways to move through or revisit a moment of stuttering calmly. These are tools to practise, not rules to be fluent.",
+    "source": "Guitar B. Stuttering: an integrated approach to its nature and treatment. 5th ed.", "year": 2019, "checked": "Nov 2026" },
+  { "id": "anxiety", "title": "Practice lowers interview anxiety", "tags": ["anxiety", "practice", "rehearsal", "desensitisation", "confidence", "preparation"],
+    "text": "Rehearsing answers out loud and repeatedly facing the interview situation reduces anticipatory anxiety through desensitisation. Rating anxiety after each attempt and watching it settle over sessions gives concrete evidence that practice is working.",
+    "source": "Menzies RG, et al. Cognitive behaviour therapy for adults who stutter. J Fluency Disord", "year": 2009, "url": "https://pubmed.ncbi.nlm.nih.gov/19948272/", "checked": "Nov 2026" },
+  { "id": "rights", "title": "Stuttering and the workplace", "tags": ["rights", "job", "discrimination", "workplace", "disability", "accommodation"],
+    "text": "Stuttering does not reduce competence or job performance. People who stutter work in every profession, including those that rely on speaking. Focus the interview on what you bring; you are not required to be fluent to be capable.",
+    "source": "The Stuttering Foundation; National Stuttering Association", "year": 2023, "url": "https://www.stutteringhelp.org/", "checked": "Nov 2026" }
+]
